@@ -15,28 +15,28 @@ NOTICE: OPTIMIZED FOR LUA, JSON & TYPESCRIPT
 
 # Features
 
-🧩 Optimized for Lua
+## 🧩 Optimized for Lua
 Designed with lua in mind, but includes a growing list of support for most languages!
 
-🎨 Low-Contrast Color Palette
+## 🎨 Low-Contrast Color Palette
 Soft, blended tones that reduce eye strain while maintaining clear syntax separation.
 
-🛠️ Inspired by Roblox Studio & Dracula
+## 🛠️ Inspired by Roblox Studio & Dracula
 A unique fusion of Roblox Studio’s clarity and Dracula’s moody vibrancy—tailored for a more relaxed, readable UI.
 
-🧠 Accessibility-Focused Design
+## 🧠 Accessibility-Focused Design
 Created to address visual issues like ghosting and contrast sensitivity, especially on dark backgrounds.
 
-🌙 Comfortable for Long Coding Sessions
+## 🌙 Comfortable for Long Coding Sessions
 Soft visuals that are easy on the eyes—perfect for day or night development.
 
-💻 Minimal, Professional Aesthetic
+## 💻 Minimal, Professional Aesthetic
 Balanced styling that suits both casual scripting and professional development environments.
 
-🧘 Soothing Yet Expressive Syntax Colors
+## 🧘 Soothing Yet Expressive Syntax Colors
 Differentiates code elements clearly without overwhelming vibrancy.
 
-⚙️ Fully VS Code Compatible
+## ⚙️ Fully VS Code Compatible
 Drop-in ready theme for Visual Studio Code with support for both UI and syntax theming.
 
 ![mild contrast preview](https://i.imgur.com/kxR49j3.png)
