@@ -16,7 +16,7 @@ NOTICE: OPTIMIZED FOR LUA, JSON & TYPESCRIPT
 # Features
 
 🧩 Optimized for Lua
-Built with lua but includes a growing list of support for most languages!
+Designed with lua in mind, but includes a growing list of support for most languages!
 
 🎨 Low-Contrast Color Palette
 Soft, blended tones that reduce eye strain while maintaining clear syntax separation.
