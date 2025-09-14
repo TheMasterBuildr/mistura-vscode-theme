@@ -1,8 +1,8 @@
 {
-  "name": "block-studio-dracula",
-  "displayName": "Ultraworks Dracula Theme",
-  "description": "A faithful fork of Block Studio that brings Ultrawork's Dracula theme into VSCode. This theme stays true to the Roblox Studio palette with slight tweaks to make it easier on the eyes!",
-  "version": "0.0.3",
+  "name": "mistura-theme",
+  "displayName": "Mistura Theme",
+  "description": "A tasteful, low contrast remix of the Roblox Studio color palette.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Block Studio Dracula",
+        "label": "Mistura",
         "uiTheme": "vs-dark",
-        "path": "./themes/Block Studio Dracula-color-theme.json"
+        "path": "./themes/Mistura-color-theme.json"
       }
     ]
   }
