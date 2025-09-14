@@ -8,7 +8,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-## [1.0.1]
+## [1.0.0]-[1.0.3]
 
 ### Fixed
-- Icon rescale
+- Icon scaling
+- Github homepage
+
