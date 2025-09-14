@@ -2,7 +2,8 @@
 
 # Mistura Theme
 
-A tasteful, low contrast remix of the Roblox Studio color palette. 
+A tasteful, low contrast remix of the Roblox Studio color palette.
+<br>
 Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy-on-the-eyes coding theme specifically crafted with accessibility in mind!
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in the USA](https://img.shields.io/badge/made%20in-usa-008751.svg?style=for-the-badge)]()
