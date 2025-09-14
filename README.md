@@ -1,10 +1,11 @@
 <div align="center">
 
-# Palenight Theme
+# Mistura Theme
 
-An elegant and juicy material-inspired theme for Visual Studio Code.
+A tasteful, low contrast remix of the Roblox Studio color palette. 
+Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy-on-the-eyes coding theme specifically crafted with accessibility in mind!
 
-[![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria)
+[![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in the USA](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria)
 
 ![theme preview](https://i.imgur.com/G3KSdGo.png)
 
@@ -13,17 +14,11 @@ An elegant and juicy material-inspired theme for Visual Studio Code.
 # Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-1. Search for `Palenight`, choose "Palenight Theme" by **Olaolu Olawuyi**
+1. Search for `Mistura`, choose "Mistura Theme" by **Olaolu Olawuyi**
 1. Click **Install** to install it
-1. Navigate to File > Preferences > Color Theme > **Palenight Theme** (or any of the variants listed)
-
-Psst! If you have the [Operator Mono](https://www.typography.com/fonts/operator) font installed, you might be interested in the **Palenight Operator** variant. Also, if you like some good ol' italics on certain keywords, try out the **Palenight Italic** variant.
-
-_There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by me._
+1. Navigate to File > Preferences > Color Theme > **Mistura Theme** (or any of the variants listed)
 
 ## Mild Contrast
-
-This theme uses minimal contrast across most of its variants, however, if you feel like the workbench could use a bit more, there's an experimental mild contrast variant under the name **Palenight (Mild Contrast)**, and it looks somewhat like this:
 
 ![mild contrast preview](https://i.imgur.com/kxR49j3.png)
 
@@ -35,4 +30,4 @@ See something strange? Please report [here](https://github.com/whizkydee/vscode-
 
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-palenight-theme/blob/master/license.md).
 
-✨ Designed by **[Olaolu Olawuyi](https://olaolu.dev?utm_source=palenight)** in **[Lagos, Nigeria](https://www.google.com/maps/place/Lagos)**. Find me on **[Twitter](https://twitter.com/mrolaolu)** ✨
+✨ Designed by **[TheMasterBuilder](https://www.youtube.com/@TheMastrBuilder)** in **[Florida, USA](https://www.google.com/maps/place/Florida)**. Find me on **[Twitter](https://x.com/Builder_Creates)** ✨
