@@ -1,14 +1,15 @@
 <div align="center">
 
-# Mistura Theme
+<img width="340" height="340" alt="Mistura_transparent" src="https://github.com/user-attachments/assets/779f39e1-d5e1-4033-80ae-85fb09f40044" />
 
+  
+# Mistura Theme
 A tasteful, low contrast remix of the Roblox Studio color palette.
 <br>
 Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy-on-the-eyes coding theme specifically crafted with accessibility in mind!
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in the USA](https://img.shields.io/badge/made%20in-usa-008751.svg?style=for-the-badge)]()
 
-![theme preview](https://i.imgur.com/Wg7Sw39.png)
 
 </div>
 NOTICE: OPTIMIZED FOR LUA, JSON & TYPESCRIPT
@@ -44,6 +45,6 @@ A clean, distraction-free interface that suits both hobbyist Roblox developers a
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/whizkydee/vscode-palenight-theme/blob/master/license.md).
+This theme is released under the [MIT License](https://github.com/TheMasterBuildr/mistura-vscode-theme/blob/master/LICENSE).
 
 ✨ Designed by **[TheMasterBuilder](https://www.youtube.com/@TheMastrBuilder)** in **[Florida, USA](https://www.google.com/maps/place/Florida)**. Find me on **[Twitter](https://x.com/Builder_Creates)** ✨
