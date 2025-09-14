@@ -10,18 +10,20 @@ Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy
 ![theme preview](https://i.imgur.com/G3KSdGo.png)
 
 </div>
-## Features
+NOTICE: OPTIMIZED FOR LUA, JSON & TYPESCRIPT
+
+Features
+🧩 Optimized for Lua
+Built with lua but includes a growing list of support for most languages!
+
 🎨 Low-Contrast Color Palette
 Soft, blended tones that reduce eye strain while maintaining clear syntax separation.
-
-🧠 Accessibility-Focused Design
-Created to address visual issues like ghosting and contrast sensitivity, especially on dark backgrounds.
 
 🛠️ Inspired by Roblox Studio & Dracula
 A unique fusion of Roblox Studio’s clarity and Dracula’s moody vibrancy—tailored for a more relaxed, readable UI.
 
-🧩 Optimized for Lua
-Includes a growing list of support for most languages.
+🧠 Accessibility-Focused Design
+Created to address visual issues like ghosting and contrast sensitivity, especially on dark backgrounds.
 
 🌙 Comfortable for Long Coding Sessions
 Soft visuals that are easy on the eyes—perfect for day or night development.
