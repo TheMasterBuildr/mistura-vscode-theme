@@ -1,7 +1,9 @@
 <div align="center">
-![theme preview](https://i.imgur.com/EAnQ5pu.png)
-# Mistura Theme
 
+<img width="340" height="340" alt="Mistura_transparent" src="https://github.com/user-attachments/assets/779f39e1-d5e1-4033-80ae-85fb09f40044" />
+
+  
+# Mistura Theme
 A tasteful, low contrast remix of the Roblox Studio color palette.
 <br>
 Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy-on-the-eyes coding theme specifically crafted with accessibility in mind!
