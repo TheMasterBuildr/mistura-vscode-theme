@@ -1,6 +1,5 @@
 <div align="center">
-![theme preview](https://i.imgur.com/Wg7Sw39.png)
-  
+![theme preview](https://i.imgur.com/EAnQ5pu.png)
 # Mistura Theme
 
 A tasteful, low contrast remix of the Roblox Studio color palette.
