@@ -12,8 +12,8 @@ Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy
 
 </div>
 NOTICE: OPTIMIZED FOR LUA, JSON & TYPESCRIPT
-
-Features
+<br>
+# Features
 🧩 Optimized for Lua
 Built with lua but includes a growing list of support for most languages!
 
