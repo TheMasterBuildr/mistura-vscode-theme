@@ -15,29 +15,23 @@ NOTICE: OPTIMIZED FOR LUA, JSON & TYPESCRIPT
 
 # Features
 
-## 🧩 Optimized for Lua
-Designed with lua in mind, but includes a growing list of support for most languages!
+## 🧩 Optimized for Lua & Roblox Development
+Designed with Lua and Roblox scripting in mind, while also supporting a growing list of popular languages.
 
-## 🎨 Low-Contrast Color Palette
-Soft, blended tones that reduce eye strain while maintaining clear syntax separation.
+## 🎨 Soft, Low-Contrast Color Palette
+Blended tones reduce eye strain and maintain clear syntax separation—ideal for long hours in Studio or VS Code.
 
-## 🛠️ Inspired by Roblox Studio & Dracula
-A unique fusion of Roblox Studio’s clarity and Dracula’s moody vibrancy—tailored for a more relaxed, readable UI.
+## 🛠️ Inspired by Roblox Studio + Dracula
+Combines the familiar clarity of Roblox Studio with Dracula’s moody, modern aesthetic for a unique, readable theme.
 
-## 🧠 Accessibility-Focused Design
-Created to address visual issues like ghosting and contrast sensitivity, especially on dark backgrounds.
+## 🧠 Accessibility-First Approach
+Crafted to reduce ghosting and visual fatigue, especially for users with contrast sensitivity on dark themes.
 
-## 🌙 Comfortable for Long Coding Sessions
-Soft visuals that are easy on the eyes—perfect for day or night development.
+## 🌙 Comfortable for Extended Coding
+Gentle visuals that work equally well in bright or dim environments—perfect for deep focus and long sessions.
 
-## 💻 Minimal, Professional Aesthetic
-Balanced styling that suits both casual scripting and professional development environments.
-
-## 🧘 Soothing Yet Expressive Syntax Colors
-Differentiates code elements clearly without overwhelming vibrancy.
-
-## ⚙️ Fully VS Code Compatible
-Drop-in ready theme for Visual Studio Code with support for both UI and syntax theming.
+## 💻 Minimal, Developer-Friendly Design
+A clean, distraction-free interface that suits both hobbyist Roblox developers and professional programmers.
 
 ![mild contrast preview](https://i.imgur.com/kxR49j3.png)
 
