@@ -8,7 +8,7 @@ Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in the USA](https://img.shields.io/badge/made%20in-usa-008751.svg?style=for-the-badge)]()
 
-![theme preview](https://i.imgur.com/G3KSdGo.png)
+![theme preview](https://i.imgur.com/GeiceKA.png)
 
 </div>
 NOTICE: OPTIMIZED FOR LUA, JSON & TYPESCRIPT
