@@ -1,8 +1,19 @@
 {
   "name": "mistura-theme",
   "displayName": "Mistura Theme",
+  "publisher": "TheMasterBuilder",
+  "author": {
+    "name": "Jaiden"
+  },
   "description": "A tasteful, low contrast remix of the Roblox Studio color palette.",
+  "icon": "images/mistura.png",
   "version": "1.0.0",
+  "license": "LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheMasterBuildr/mistura-vscode-theme"
+  },
+  "homepage": "https://github.com/TheMasterBuildr/mistura-vscode-theme/blob/master/README.md",
   "engines": {
     "vscode": "^1.104.0"
   },
