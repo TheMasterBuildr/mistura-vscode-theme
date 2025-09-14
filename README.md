@@ -45,6 +45,6 @@ A clean, distraction-free interface that suits both hobbyist Roblox developers a
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/whizkydee/vscode-palenight-theme/blob/master/license.md).
+This theme is released under the [MIT License](https://github.com/TheMasterBuildr/mistura-vscode-theme/blob/master/LICENSE).
 
 ✨ Designed by **[TheMasterBuilder](https://www.youtube.com/@TheMastrBuilder)** in **[Florida, USA](https://www.google.com/maps/place/Florida)**. Find me on **[Twitter](https://x.com/Builder_Creates)** ✨
