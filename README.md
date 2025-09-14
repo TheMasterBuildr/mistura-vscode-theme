@@ -12,7 +12,9 @@ Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy
 
 
 </div>
-NOTICE: OPTIMIZED FOR LUA, JSON & TYPESCRIPT
+
+![mild contrast preview](https://i.imgur.com/0oLHbYT.png)
+**NOTICE: ***OPTIMIZED FOR LUA, JSON & TYPESCRIPT*****
 
 # Features
 
@@ -33,8 +35,6 @@ Gentle visuals that work equally well in bright or dim environments—perfect fo
 
 ## 💻 Minimal, Developer-Friendly Design
 A clean, distraction-free interface that suits both hobbyist Roblox developers and professional programmers.
-
-![mild contrast preview](https://i.imgur.com/0oLHbYT.png)
 
 # Installation
 
