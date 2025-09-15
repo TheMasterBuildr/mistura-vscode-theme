@@ -14,3 +14,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Icon scaling
 - Github homepage
 
+## [2.0.0] - 9/15/2025
+- FULL REWRITE
+- Colors have been revamped
+- Full JSON Support
+- Full Typescript Support
+- New Roblox Studio Paired Theme
+- Fixed a ton of bugs
+

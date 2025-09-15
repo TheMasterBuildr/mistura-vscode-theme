@@ -6,8 +6,8 @@
     "name": "Jaiden"
   },
   "description": "A tasteful, low contrast remix of the Roblox Studio color palette.",
-  "icon": "images/mistura.png",
-  "version": "1.0.3",
+  "icon": "src/images/mistura.png",
+  "version": "2.0.0",
   "license": "LICENSE.txt",
   "repository": {
     "type": "git",
@@ -20,6 +20,10 @@
   "categories": [
     "Themes"
   ],
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  },
   "contributes": {
     "themes": [
       {
@@ -28,5 +32,13 @@
         "path": "./themes/Mistura-color-theme.json"
       }
     ]
+  },
+  "extensionDependencies": [
+    "littensy.charmed-icons",
+    "jep-a.lua-plus",
+    "johnnymorganz.luau-lsp"
+  ],
+  "devDependencies": {
+    "json5": "^2.2.3"
   }
 }

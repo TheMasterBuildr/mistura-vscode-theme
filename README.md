@@ -1,47 +1,76 @@
 <div align="center">
-
 <img width="340" height="340" alt="Mistura_transparent" src="https://github.com/user-attachments/assets/779f39e1-d5e1-4033-80ae-85fb09f40044" />
 
-  
-# Mistura Theme
-A tasteful, low contrast remix of the Roblox Studio color palette.
-<br>
-Mistura combines Studio, Palenight, Dracula & Nocture to create an elegant, easy-on-the-eyes coding theme specifically crafted with accessibility in mind!
+<img width="730" height="124" alt="Mistura_banner" src="https://github.com/user-attachments/assets/3a359384-0623-4c47-b3a2-e7359f8629c3" />
 
-[![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in the USA](https://img.shields.io/badge/made%20in-usa-008751.svg?style=for-the-badge)]()
+***A tasteful, low contrast remix of the Roblox Studio color palette.***
+<br>
+Mistura takes on the classic Studio feel and mixes it up with a fresh new pastel look!
+<br> Elegant, easy on the eyes, and specifically crafted with accessibility in mind.
+
+Available for both VSCode & Roblox Studio, so you never have to re-adjust to colors again!
+
+[![Roblox Studio](https://img.shields.io/badge/For-VSCode-blue)](https://marketplace.visualstudio.com/items?itemName=TheMasterBuilder.mistura-theme) 
+[![Roblox Studio](https://img.shields.io/badge/For-Roblox_Studio-red)](https://devforum.roblox.com/t/mistura-a-brand-new-theme-for-roblox-studio-vscode/3934787)
 
 
 </div>
 
-![mild contrast preview](https://i.imgur.com/0oLHbYT.png)
+<img width="2272" height="1760" alt="Mistura Thumbnail" src="https://github.com/user-attachments/assets/71852349-49f4-4f39-be5a-2bc15545b433" />
 **NOTICE: ***OPTIMIZED FOR LUA, JSON & TYPESCRIPT*****
 
 # Features
 
-## 🧩 Optimized for Lua & Roblox Development
-Designed with Lua and Roblox scripting in mind, while also supporting a growing list of popular languages.
+## 📚 Multi-Language Support
+**Lua**, ***Luau***, **JSON** & **Typescript** are all officially supported, along with a variety of other languages with generic support.
 
-## 🎨 Soft, Low-Contrast Color Palette
-Blended tones reduce eye strain and maintain clear syntax separation—ideal for long hours in Studio or VS Code.
+## ⚡ Faster Workflow
+Each color has been carefully hand-picked to help you quickly identify where and what you're looking for!
 
-## 🛠️ Inspired by Roblox Studio + Dracula
-Combines the familiar clarity of Roblox Studio with Dracula’s moody, modern aesthetic for a unique, readable theme.
-
-## 🧠 Accessibility-First Approach
+## 👁️ Accessibility-First Approach
 Crafted to reduce ghosting and visual fatigue, especially for users with contrast sensitivity on dark themes.
 
-## 🌙 Comfortable for Extended Coding
-Gentle visuals that work equally well in bright or dim environments—perfect for deep focus and long sessions.
+## 🎨 Soft, Low-Contrast Color Palette
+Blended tones reduce eye strain and maintain clear syntax separation. Gentle visuals that work equally well in bright or dim environments!
 
-## 💻 Minimal, Developer-Friendly Design
-A clean, distraction-free interface that suits both hobbyist Roblox developers and professional programmers.
+## ✨ Roblox Studio X Dracula REMIXED
+Combines the familiar clarity of Roblox Studio with Dracula’s moody, modern aesthetic for a unique, readable theme!
+
+<img width="1095" height="186" alt="demo banner" src="https://github.com/user-attachments/assets/27020876-2b87-4cfb-b2ce-678f2a9d4ad8" />
+
+<img width="1919" height="1079" alt="lua" src="https://github.com/user-attachments/assets/ba19db67-1c85-4d39-84d6-66c1b329380d" />
+
+<img width="1919" height="1079" alt="json" src="https://github.com/user-attachments/assets/8de60679-c7ba-408d-ae55-12fea55731af" />
+
+<img width="1919" height="1079" alt="ts" src="https://github.com/user-attachments/assets/b6777142-ff21-4d16-9385-5e174bb4d81b" />
+
+
+> # Color Palette
+<div align="center">
+<img width="547.5" height="134.5" alt="palette" src="https://github.com/user-attachments/assets/9fad9381-ad55-4527-b008-15ff9de08613" />
+</div>
+
 
 # Installation
-
+## Mistura For Roblox Studio
+  *Install the plugin here: https://create.roblox.com/store/asset/113359669870891/Mistura*
+## Mistura For VSCode
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-1. Search for `Mistura`, choose "Mistura Theme" by **TheMasterBuilder**
-1. Click **Install** to install it
-1. Navigate to File > Preferences > Color Theme > **Mistura Theme** (or any variants listed)
+2. Search for `Mistura`, choose "Mistura Theme" by **TheMasterBuilder**
+3. Click **Install** to install it
+4. Navigate to File > Preferences > Color Theme > **Mistura Theme** (or any variants listed)
+[/details]
+
+
+
+> **Known Issues:**
+> - Some Luau token types may appear miscolored
+> - Some Typescript token types may appear miscolored
+
+> **Roadmap**
+> - Wide range of language support
+> - Color variants
+> - Colorblind support
 
 ## License
 

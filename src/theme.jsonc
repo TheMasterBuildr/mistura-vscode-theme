@@ -1,0 +1,313 @@
+{
+  "name": "Mistura Theme",
+  "type": "dark",
+  "colors": {
+    // --- INTERFACE ---
+    "editor.background": "$background_1",
+    "editor.foreground": "$text",
+    "editor.selectionBackground": "$selection",
+    "editor.lineHighlightBackground": "$background_2",
+    "editorCursor.foreground": "$text",
+    "editorWhitespace.foreground": "$foreground_1",
+    "editorIndentGuide.background1": "$gutter",
+    "editorIndentGuide.activeBackground1": "$gutter",
+    "editorError.foreground": "$error",
+    "editorWarning.foreground": "$warning",
+    "editorInfo.foreground": "$info",
+    "editorRuler.foreground": "$gutter",
+    "editorGutter.background": "$background_1",
+    "editorGutter.modifiedBackground": "$text",
+    "editorGutter.addedBackground": "$text",
+    "editorGutter.deletedBackground": "$error",
+    "editor.selectionHighlightBackground": "$selection",
+    "editor.findMatchBackground": "$matchBackground",
+    "editor.findMatchHighlightBackground": "$matchHighlight",
+    "editorWidget.background": "$background_2",
+    "editorWidget.border": "$gutter",
+    "editorSuggestWidget.background": "$widgetBackground",
+    "editorSuggestWidget.border": "$gutter",
+    "editorSuggestWidget.foreground": "$text",
+    "editorSuggestWidget.selectedBackground": "$widgetSelect",
+    "editorSuggestWidget.highlightForeground": "$widgetHighlight",
+    "editorHoverWidget.background": "$hoverBackground",
+    "editorHoverWidget.border": "$gutter",
+    "editorLineNumber.foreground": "$lineNumber",
+    "editorLineNumber.activeForeground": "$lineNumberActive",
+    "editorGroup.border": "$gutter",
+    "editorGroupHeader.tabsBackground": "$background_3",
+    "sideBar.border": "$gutter",
+
+    "activityBar.border": "$gutter",
+    "activityBar.background": "$background_3",
+    "activityBar.foreground": "$text",
+    "activityBar.activeBackground": "$background_2",
+    "activityBar.activeBorder": "$accent",
+    "activityBar.inactiveForeground": "$foreground_2",
+
+    "sideBar.background": "$background_3",
+    "sideBar.foreground": "$text",
+    "sideBarSectionHeader.background": "$background_2",
+    "sideBarTitle.foreground": "$text",
+
+    "panel.background": "$background_3",
+    "panel.border": "$gutter",
+    "panelTitle.activeForeground": "$white",
+    "panelTitle.inactiveForeground": "$foreground_2",
+
+    "tab.activeBackground": "$background_1",
+    "tab.activeForeground": "$white",
+    "tab.border": "$gutter",
+    "tab.inactiveBackground": "$background_3",
+    "tab.inactiveForeground": "$foreground_2",
+
+    "titleBar.activeBackground": "$background_3",
+    "titleBar.activeForeground": "$text",
+    "titleBar.inactiveBackground": "$background_4",
+    "titleBar.inactiveForeground": "$foreground_2",
+
+    "dropdown.background": "$background_2",
+    "dropdown.foreground": "$text",
+    "input.background": "$background_5",
+    "input.foreground": "$text",
+    "list.activeSelectionBackground": "$widgetSelect",
+    "list.activeSelectionForeground": "$white",
+    "list.hoverBackground": "$background_2",
+    "list.hoverForeground": "$white",
+
+    "statusBar.background": "$background_3",
+    "statusBar.foreground": "$text",
+    "statusBar.border": "$gutter",
+    "statusBar.noFolderBackground": "$background_3",
+    "statusBar.debuggingBackground": "$accent",
+    "statusBar.debuggingForeground": "$white",
+    "statusBarItem.hoverBackground": "$background_2",
+    "statusBarItem.remoteBackground": "$background_2",
+    "statusBarItem.remoteForeground": "$text",
+
+    "editorBracketHighlight.foreground1": "$bracket_1",
+    "editorBracketHighlight.foreground2": "$bracket_2",
+    "editorBracketHighlight.foreground3": "$bracket_3",
+    "editorBracketHighlight.foreground4": "$bracket_4",
+    "editorBracketHighlight.foreground5": "$bracket_5",
+    "editorBracketHighlight.foreground6": "$bracket_6",
+
+    "[luau]": {
+      "editor.semanticHighlighting.enabled": false
+    }
+  },
+
+  // --- OVERRIDES ---
+  "semanticTokenColors": {
+    "function": { "foreground": "$function" },
+    "variable": { "foreground": "$text" },
+    "property": { "foreground": "$property" },
+    "variable.other.table.property.lua": { "foreground": "$property" }
+  },
+
+  //  --- SYNTAX HIGHLIGHTING ---
+  "tokenColors": [
+    //     --- GENERICS ---
+    { //keywords
+      "scope": ["keyword.control", "storage.type", "storage.modifier"],
+      "settings": { "foreground": "$keyword" }
+    },
+    { //functions
+      "scope": ["entity.name.function"],
+      "settings": { "foreground": "$function"}
+    },
+    { //strings
+      "scope": ["string"],
+      "settings": { "foreground": "$string" }
+    },
+    { //built-in
+      "scope": ["constant", "support.function", "keyword.function",],
+      "settings": { "foreground": "$builtIn" }
+    },
+    { //properties
+      "scope": ["variable.other.property"],
+      "settings": { "foreground": "$property" }
+    },
+    { //constants
+      "scope": ["constant.numeric", "constant.language.boolean", "constant.language.nil"],
+      "settings": { 
+        "foreground":             "$constant",
+        "fontStyle": "bold"}
+    },
+    { //punctuation
+      "scope": [
+        "keyword.operator",
+        "punctuation.definition.parameters",
+        "punctuation.separator",
+        "punctuation.terminator",
+        "punctuation.section"
+      ],
+      "settings": { "foreground": "$symbol" }
+    },
+    { //comments
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": { "foreground": "$comment" }
+    },
+    { //variables
+      "scope": ["variable", "variable.other", "variable.other.readwrite"],
+      "settings": { "foreground": "$text" }
+    },
+    { //parameters
+      "scope": ["variable.parameter"],
+      "settings": { "fontStyle": "italic"}
+    },
+
+    //     --- BRACKETS ---
+    {
+      "scope": "punctuation.bracket.level1",
+      "settings": {
+      "foreground": "$bracket_1",
+      "fontStyle": "" }
+    },
+    {
+      "scope": "punctuation.bracket.level2",
+      "settings": {
+      "foreground": "$bracket_2",
+      "fontStyle": "italic"}
+    },
+    {
+      "scope": "punctuation.bracket.level3",
+      "settings": {
+      "foreground": "$bracket_3",
+      "fontStyle": "italic"}
+    },
+    {
+      "scope": "punctuation.bracket.level4",
+      "settings": {
+      "foreground": "$bracket_4",
+      "fontStyle": "bold"}
+    },
+    {
+      "scope": "punctuation.bracket.level5",
+      "settings": {
+      "foreground": "$bracket_5",
+      "fontStyle": "bold"}
+    },
+    {
+      "scope": "punctuation.bracket.level6",
+      "settings": {
+      "foreground": "$bracket_6",
+      "fontStyle": "italic bold"}
+    },
+
+    //       --- LUA ---
+    { //keywords
+      "scope": [ 
+        "keyword.control.luau", 
+        "keyword.operator.wordlike", 
+        "storage.modifier.local.luau"
+      ],
+      "settings": {
+        "foreground": "$keyword",
+        "fontStyle": "bold"
+      }
+    },
+
+    { //self
+      "scope": ["variable.language.self.luau"],
+      "settings": {
+        "foreground": "$keyword",
+        "fontStyle": "italic bold"
+      }
+    },
+    
+    { //functions
+      "scope": [ "entity.name.function.luau" ],
+      "settings": {
+        "foreground": "$function"
+      }
+    },
+    { //function tables
+      "scope": ["entity.name.function-table.lua"],
+      "settings": { "foreground": "$function" }
+    },
+    { //table properties
+      "scope": ["variable.other.table.property.lua", "variable.language.metamethod.luau"],
+      "settings": { "foreground": "$property" }
+    },
+    { //strings
+      "scope": ["string"],
+      "settings": { "foreground": "$string" }
+    },
+    { // symbols
+      "scope": ["keyword.operator","source.luau"],
+      "settings": {"foreground": "$symbol"}
+    },
+
+    //       --- TYPESCRIPT --- 
+    {//keyword
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": { "foreground": "$keyword" }
+    },
+    {//function
+      "scope": ["entity.name.function"],
+      "settings": { "foreground": "$function", "fontStyle": "bold" }
+    },
+    {//string
+      "scope": ["string", "string.template"],
+      "settings": { "foreground": "$string" }
+    },
+    {//constant
+      "scope": ["constant.numeric", "constant.language.boolean", "variable.other.enummember"],
+      "settings": { "foreground": "$constant" }
+    },
+    {//property
+      "scope": ["variable.other.property", "meta.object-literal.key", "support.type.property-name.json"],
+      "settings": { "foreground": "$property" }
+    },
+    {//clases
+      "scope": ["entity.name.type", "support.type", "support.class"],
+      "settings": { "foreground": "$builtIn" }
+    },
+    {//interface
+      "scope": ["entity.name.type.interface", "entity.name.type.parameter"],
+      "settings": { "foreground": "$symbol", "fontStyle": "italic" }
+    },
+    {//text
+      "scope": ["variable", "variable.other.readwrite"],
+      "settings": { "foreground": "$text" }
+    },
+    {//decorators
+      "scope": ["meta.decorator"],
+      "settings": { "foreground": "$accent" }
+    },
+    {//comments
+      "scope": ["comment"],
+      "settings": { "foreground": "$comment", "fontStyle": "italic" }
+    },
+
+    //       --- JSON ---
+    {//keys
+      "scope": ["support.type.property-name.json"],
+      "settings": { "foreground": "$property" }
+    },
+    {//values
+      "scope": ["string.quoted.double.json", "string.quoted.single.json"],
+      "settings": { "foreground": "$function" }
+    },
+    {//quotes
+      "scope": [
+        "punctuation.definition.string.begin.json",
+        "punctuation.definition.string.end.json"
+      ],
+      "settings": { "foreground": "$function" }
+    },
+    { //constants
+      "scope": [
+        "constant.language.json"
+      ],
+      "settings": { "foreground": "$constant", "fontStyle": "bold" }
+    },
+    { //backslash
+      "scope": [
+        "constant.character.escape",
+        "constant.character.escape.json"
+      ],
+      "settings": { "foreground": "$keyword", "fontStyle": "bold" }
+    }
+  ]
+}

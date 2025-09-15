@@ -1,0 +1,53 @@
+{
+  // ---- Color Palette ----
+  "palette": {
+  // --- SYNTAX ---
+  "keyword":            "#eb7973",   // keywords, control flow, storage
+  "function":           "#F2DAA5",   // user-defined functions
+  "string":             "#def6b5",   // string literals
+  "builtIn":            "#8fb4ff",   // built-in functions & constants
+  "property":           "#61a1f1",   // object properties, accessors
+  "constant":           "#CCB8FF",   // numbers, constants, bools
+  "symbol":             "#bd80a9",   // punctuation, symbols
+  "comment":            "#6C7390",   // comments
+  "text":               "#CCCCCC",   // default text / variables
+
+  "bracket_1":  "#bcbec8",
+  "bracket_2":  "#5dc8bf",
+  "bracket_3":  "#a073e9ff",
+  "bracket_4":  "#f5ab6eff",
+  "bracket_5":  "#bd80a9c2",
+  "bracket_6":  "#8ac4ebff",
+
+  // --- INTERFACE ---
+  "background_1":       "#2B2D3B",   // editor bg
+  "background_2":       "#2D3241",   // line highlight, hover, bgs
+  "background_3":       "#24252E",
+  "background_4":       "#1A1B24",
+  "background_5":       "#262a37",
+  "foreground_1":       "#555555",
+  "foreground_2":       "#6C7390",
+  "matchBackground":    "#8D7682",
+  "matchHighlight":     "#8D768299",
+  "selection":          "#264f789f",   // selection bg
+  "accent":             "#4E77FF",   // active selections, borders, highlights
+  "gutter":             "#6a6f81",   // indent guides, borders, rulers
+  "hoverBackground":    "#2c2e3c",
+  "widgetBackground":   "#2E2E2E",   // suggest / hover widgets
+  "widgetSelect":       "#265AA9",
+  "widgetHighlight":    "#ff6d7c",
+  "info":               "#4F4F4F",   // info messages
+  "warning":            "#76c991",   // warnings
+  "error":              "#FF0000",   // errors
+  "lineNumber":         "#696080",   // line numbers
+  "lineNumberActive":   "#D7D1E6",   // active line number
+  "white":              "#FFFFFF",
+
+  // --- MARKUP & JSON ---
+  "markupHeading":      "#FF4A6D",
+  "markupInserted":     "#FFD600",
+  "markupChanged":      "#FF7315",
+  "jsonProperty":       "#e8a772",
+  "jsonComment":        "#ddcc74"
+  }
+}
