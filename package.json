@@ -7,7 +7,7 @@
   },
   "description": "A tasteful, low contrast remix of the Roblox Studio color palette.",
   "icon": "src/images/mistura.png",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "license": "LICENSE.txt",
   "repository": {
     "type": "git",

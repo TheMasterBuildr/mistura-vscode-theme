@@ -20,7 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - New Roblox Studio Paired Theme
 - Fixed a ton of bugs
 
-## [2.0.1] - 9/15/2025
+## [2.0.1]-[2.0.2] - 9/15/2025
 - Tweaked 'bold' functions
 - Fixed GitHub page
 
