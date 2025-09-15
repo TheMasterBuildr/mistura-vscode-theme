@@ -313,8 +313,7 @@
         "entity.name.function"
       ],
       "settings": {
-        "foreground": "#F2DAA5",
-        "fontStyle": "bold"
+        "foreground": "#F2DAA5"
       }
     },
     {

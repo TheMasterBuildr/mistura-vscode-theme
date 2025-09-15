@@ -245,7 +245,7 @@
     },
     {//function
       "scope": ["entity.name.function"],
-      "settings": { "foreground": "$function", "fontStyle": "bold" }
+      "settings": { "foreground": "$function"}
     },
     {//string
       "scope": ["string", "string.template"],
