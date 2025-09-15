@@ -16,7 +16,7 @@ Available for both VSCode & Roblox Studio, so you never have to re-adjust to col
 
 </div>
 
-<img width="2272" height="1760" alt="Mistura Thumbnail" src="https://github.com/user-attachments/assets/71852349-49f4-4f39-be5a-2bc15545b433" />
+[![Thumbnail](https://i.imgur.com/tRR8Se4.png)]
 **NOTICE: ***OPTIMIZED FOR LUA, JSON & TYPESCRIPT*****
 
 # Features
@@ -38,11 +38,11 @@ Combines the familiar clarity of Roblox Studio with Dracula’s moody, modern ae
 
 <img width="1095" height="186" alt="demo banner" src="https://github.com/user-attachments/assets/27020876-2b87-4cfb-b2ce-678f2a9d4ad8" />
 
-<img width="1919" height="1079" alt="lua" src="https://github.com/user-attachments/assets/ba19db67-1c85-4d39-84d6-66c1b329380d" />
+[![Luau](https://i.imgur.com/CRcwIeo.png)]
 
-<img width="1919" height="1079" alt="json" src="https://github.com/user-attachments/assets/8de60679-c7ba-408d-ae55-12fea55731af" />
+[![Json](https://i.imgur.com/ww5Near.png)]
 
-<img width="1919" height="1079" alt="ts" src="https://github.com/user-attachments/assets/b6777142-ff21-4d16-9385-5e174bb4d81b" />
+[![Typscript](https://i.imgur.com/kaKyVBC.png)]
 
 
 > # Color Palette
