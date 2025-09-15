@@ -16,7 +16,7 @@ Available for both VSCode & Roblox Studio, so you never have to re-adjust to col
 
 </div>
 
-[![Thumbnail](https://i.imgur.com/tRR8Se4.png)]
+[Thumbnail](https://i.imgur.com/tRR8Se4.png)
 **NOTICE: ***OPTIMIZED FOR LUA, JSON & TYPESCRIPT*****
 
 # Features
@@ -38,11 +38,11 @@ Combines the familiar clarity of Roblox Studio with Dracula’s moody, modern ae
 
 <img width="1095" height="186" alt="demo banner" src="https://github.com/user-attachments/assets/27020876-2b87-4cfb-b2ce-678f2a9d4ad8" />
 
-[![Luau](https://i.imgur.com/CRcwIeo.png)]
+[Luau](https://i.imgur.com/CRcwIeo.png)
 
-[![Json](https://i.imgur.com/ww5Near.png)]
+[Json](https://i.imgur.com/ww5Near.png)
 
-[![Typscript](https://i.imgur.com/kaKyVBC.png)]
+[Typscript](https://i.imgur.com/kaKyVBC.png)
 
 
 > # Color Palette
