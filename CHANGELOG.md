@@ -9,8 +9,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 
 ## [1.0.0]-[1.0.3]
-
-### Fixed
 - Icon scaling
 - Github homepage
 
@@ -21,4 +19,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Full Typescript Support
 - New Roblox Studio Paired Theme
 - Fixed a ton of bugs
+
+## [2.0.1] - 9/15/2025
+- Tweaked 'bold' functions
+- Fixed GitHub page
 
